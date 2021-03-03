@@ -1,0 +1,8 @@
+# Folder metadata
+.DS_Store
+
+# Installed dependency code
+node_modules
+
+# Compiled application
+/dist
